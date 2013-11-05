@@ -1,0 +1,17 @@
+0.1.1
+
+Forked from http://sourceforge.net/projects/bpm/ trying to find author "pat03".
+
+0.1:
+  * Added the abilty to have command line args.
+  * Removed the check for the bpm group, will be re-added later.
+	* Added help and usage messages.
+	* Added clean up function if SIGHUP, SIGINT or SIGTERM signals are received.
+  * Coloured output is here :D
+  * Added --info, --verbose, --ask, --help arguments.
+  * Added an error function to handle errors in a clean way.
+  * Added a debug function
+	* And lots more :)
+
+0.0.1:
+  * Initial Release

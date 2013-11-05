@@ -1,0 +1,15 @@
+<packagelist>
+	<package name="bpm">
+		<description>
+			Bash Package Manager is a Package Manager with support for many package formats
+		<description>
+		<versions id="1">
+			<number>0.0.2</number>
+			<use>portage debug</use>
+		</versions>
+		<versions id="2">
+			<number>0.0.1</number>
+			<use>debug</number>
+		</versions>
+	</package>
+</packagelist>

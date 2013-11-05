@@ -1,0 +1,7 @@
+** BUGS **
+	
+	* Lots of bugs with the ordering of command line args!
+		* Dosnt like having more than one arg
+		* When args are not in the right order thing screw up
+		* Wont take the input of a package name :(
+	NOTE: Working on fixing the command line arguments ASAP
